@@ -1,2 +1,0 @@
-urllib3==1.25.1
-azure-storage-blob==2.1.0
